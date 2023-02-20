@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushibhadange&show_icons=true&locale=en&theme=radical" alt="khushibhadange" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushibhadange&theme=gruvbox" alt="khushibhadange" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushibhadange&theme=tokyonight" alt="khushibhadange" /></p>
