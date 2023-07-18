@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushibhadange&label=Profile%20views&color=0e75b6&style=flat" alt="khushibhadange" /> </p>
 
-<p align="left"> <a href="https://twitter.com/khushibhadange" target="blank"><img src="https://img.shields.io/twitter/follow/khushibhadange?logo=twitter&style=for-the-badge" alt="khushibhadange" /></a> </p>
+<p align="left"> <a href="https://twitter.com/khushibhadange" target="blank"></a> </p>
 
 - 🔭 I’m currently working on **Uber Data Analysis using R**
 
