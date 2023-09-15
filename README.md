@@ -13,12 +13,8 @@
 <br>
 
 # 🌐 Socials:
-<p align="left">
-<a href="https://twitter.com/khushibhadange" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khushibhadange" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/khushibhadange" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushibhadange" height="30" width="40" /></a>
-<a href="https://instagram.com/khushii.82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khushii.82" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bhadange_jkhushi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bhadange_jkhushi" height="30" width="40" /></a>
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khushii.82) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/khushibhadange) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/khushibhadange_) [![Kaggle](https://img.shields.io/badge/kaggle-%20-blue)](https://www.kaggle.com/KhushiBhadange)
+
 <br>
 
 # 💻 Tech Stack:
