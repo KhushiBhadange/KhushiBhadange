@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/khushibhadange" target="blank"></a> </p>
+
 
 - 🔭 I’m currently working on **Uber Data Analysis using R**
 
