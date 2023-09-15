@@ -3,7 +3,7 @@
 <h3 align="center">Graduate Student Focusing On Web Development And Data Science</h3>
 <img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushibhadange&label=Profile%20views&color=0e75b6&style=flat" alt="khushibhadange" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/khushibhadange" target="blank"></a> </p>
 
