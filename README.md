@@ -1,6 +1,5 @@
 [![MasterHead](https://github.com/KhushiBhadange/KhushiBhadange/blob/main/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f62616e6e65722d62672e676966.gif)](https://KhushiBhadange.io)
 <h1 align="center">Hi 👋, I'm Khushi Bhadange</h1>
-[![](https://visitcount.itsvg.in/api?id=KhushiBhadange&icon=0&color=1)](https://visitcount.itsvg.in)
 <h3 align="center">Graduate Student Focusing On Web Development And Data Science</h3>
 <br>
 
@@ -12,7 +11,7 @@
 
 - 📫 How to reach me **bhadange.jkhushi@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Socials:
 <p align="left">
 <a href="https://twitter.com/khushibhadange" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khushibhadange" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/khushibhadange" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushibhadange" height="30" width="40" /></a>
