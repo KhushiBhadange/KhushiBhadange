@@ -14,7 +14,7 @@
 
 ## What are my featured projects:question:<img src="https://user-images.githubusercontent.com/99719265/222153230-7756628c-4daf-4d16-9f06-e52ac3955942.gif" width="30px">
 <code>[Deep-Learning-Image-Recognition-with-VGG16](https://github.com/KhushiBhadange/Deep-Learning-Image-Recognition-with-VGG16)</code>:hourglass: 
-<code>[ENTRYBOTX ](https://github.com/KhushiBhadange/ENTRYBOTX)</code>:cat:</code>:rocket:
+<code>[ENTRYBOTX ](https://github.com/KhushiBhadange/ENTRYBOTX)</code>:rocket:
 <code>[Doc-Sync-And-Topic-mapper ](https://github.com/KhushiBhadange/Doc-Sync-And-Topic-mapper)</code>:hourglass:
 
 
